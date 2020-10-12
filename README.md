@@ -1,0 +1,2 @@
+# SeichiAssist-ExternalLib
+ギガンティック☆整地鯖のSeichiAssist外部の構成要素(外部プラグインなど)に関する情報を集約,issue管理する為のリポジトリ
