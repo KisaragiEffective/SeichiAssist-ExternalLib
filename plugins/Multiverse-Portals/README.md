@@ -1,5 +1,5 @@
 # Multiverse-Portals
-複数のワールドを作成できたり、その間の移動を可能にするポータルを作成できたりするプラグイン
+複数のワールドの間の移動を可能にするポータルを作成できるプラグイン
 
 # Link
 https://dev.bukkit.org/projects/multiverse-portals
