@@ -1,5 +1,5 @@
 # ColoredSigns
-リスポーン位置を変更するプラグイン
+看板に色を追加できるプラグイン
 
 # Link
 https://www.spigotmc.org/resources/colored-signs.31676/

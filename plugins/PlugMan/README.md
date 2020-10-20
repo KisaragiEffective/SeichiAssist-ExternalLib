@@ -1,5 +1,5 @@
 # PlugMan
-PlaceholderのAPI
+pluginの情報を参照、pluginの個別無効化、有効化、リロードの実施、plugin一覧をテキストファイルでdumpすることができるプラグイン
 
 # Link
 https://dev.bukkit.org/projects/plugman
