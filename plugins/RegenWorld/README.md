@@ -5,6 +5,7 @@
 https://github.com/GiganticMinecraft/RegenWorld
 
 # Version
+1.2
 
 # Installed Server
 - s1
