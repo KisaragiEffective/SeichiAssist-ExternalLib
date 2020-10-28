@@ -5,6 +5,7 @@
 https://www.spigotmc.org/resources/vault.34315/
 
 # Version
+1.6.7
 
 # Installed Server
 - s1

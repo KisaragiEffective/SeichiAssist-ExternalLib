@@ -5,6 +5,7 @@ RegionGUIの前提プラグイン
 https://www.spigotmc.org/resources/ct-core-inactive.24842/
 
 # Version
+2.1.2
 
 # Installed Server
 - s1

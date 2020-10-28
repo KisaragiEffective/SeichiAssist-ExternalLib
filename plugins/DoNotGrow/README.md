@@ -5,6 +5,7 @@
 https://github.com/GiganticMinecraft/DoNotGrow
 
 # Version
+1.0.0
 
 # Installed Server
 - s1
