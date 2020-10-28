@@ -5,6 +5,7 @@
 https://www.spigotmc.org/resources/asyncworldedit.327/
 
 # Version
+3.5.4
 
 # Installed Server
 - s1
