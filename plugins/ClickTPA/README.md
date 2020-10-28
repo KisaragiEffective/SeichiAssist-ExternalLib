@@ -5,6 +5,7 @@
 https://www.spigotmc.org/resources/clicktpa.62596/
 
 # Version
+1.5.1
 
 # Installed Server
 - s1
