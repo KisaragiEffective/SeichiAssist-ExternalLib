@@ -36,7 +36,6 @@
 - [TodayPlugin](./TodayPlugin)
 - [Multiverse-Core](./Multiverse-Core)
 - [AutoSaveWorld](./AutoSaveWorld)
-- [SeasonalEvents](./SeasonalEvents)
 - [AsyncWorldEdit](./AsyncWorldEdit)
 - [ByeByeWither](./ByeByeWither)
 - [ThisWorld](./ThisWorld)
