@@ -2,7 +2,7 @@
 任意の座標をhomeとして記録しテレポートできる機能を提供するプラグイン
 
 # Link
-https://www.spigotmc.org/resources/myhome.64791/
+https://dev.bukkit.org/projects/myhome
 
 # Version
 
