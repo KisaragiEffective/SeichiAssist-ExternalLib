@@ -5,6 +5,7 @@
 https://dev.bukkit.org/projects/myhome
 
 # Version
+2.3.2
 
 # Installed Server
 - s1
