@@ -8,7 +8,6 @@ https://github.com/iConomy/Core
 
 # Installed Server
 - s1
-- s2
 - s5
 - s7
 - s8
