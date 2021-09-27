@@ -1,5 +1,5 @@
 # tce
-特定の日時に自動的にコンソールのexicuteコマンドを実行できるようになるプラグイン
+特定の日時に自動的にコンソールのexecuteコマンドを実行できるようになるプラグイン
 
 # Link
 https://dev.bukkit.org/projects/tce
